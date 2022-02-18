@@ -8,6 +8,6 @@ cd CommanderPi
 sudo chmod +x install.sh
 ./install.sh
 cd ..
-echo "CommanderPi Should Be Installed - Now Installing Turbowarp (64-Bit OS)"
+echo "Commander Pi Should Be Installed - Now Installing Turbowarp (64-Bit OS)"
 wget https://github.com/TurboWarp/desktop/releases/download/v1.1.1/TurboWarp-linux-arm64-1.1.1.deb
 sudo dpkg -i TurboWarp-linux-arm64-1.1.1.deb
